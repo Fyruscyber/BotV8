@@ -1465,7 +1465,7 @@ if (text.includes(".randomhentai"))
    {
     var items = ["nsfwhentai", "anime hentai", "hentai", "nsfwneko"];
     var cewe = items[Math.floor(Math.random() * items.length)];
-    var url = "https://api.fdci.se/rep.php?gambar=" + cewe;
+    var url = "www.animepixxx.com=" + cewe;
     
     axios.get(url)
       .then((result) => {
